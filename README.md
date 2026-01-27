@@ -1,5 +1,7 @@
 # Hi, I am Spencer 👋
 
+> I love building stuff
+
 ## Projects
 
 - **[Fitness Tracker](https://spencer-fitness-app.com/)** - AI Fitness Assistant
