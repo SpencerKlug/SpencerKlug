@@ -5,7 +5,7 @@
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=style=flat-square&logo=Apache%20Airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
-> I love building stuff
+> Data engineering with a product and customer mindset
 
 ## Projects
 
