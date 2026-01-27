@@ -3,6 +3,7 @@
 ## Current Projects
 
 - **[Fitness Tracker](https://spencer-fitness-app.com/)** - AI Fitness Assistant
+- **[Personal Website](https://spencerklug.com/)** - My personal website
 
 <!--
 **SpencerKlug/SpencerKlug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
