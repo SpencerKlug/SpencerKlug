@@ -11,5 +11,5 @@
 
 - **[Fitness Tracker](https://spencer-fitness-app.com/)** - AI Fitness Assistant
 - **[Personal Website](https://spencerklug.com/)** - My personal website
-- **[NBA Data Warehouse]https://github.com/SpencerKlug/nba-stats)** - NBA Stats Data Warehouse
+- **[NBA Data Warehouse](https://github.com/SpencerKlug/nba-stats)** - NBA Stats Data Warehouse
 
